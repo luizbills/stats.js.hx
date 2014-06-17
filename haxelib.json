@@ -1,0 +1,16 @@
+{
+  "name": "stats.js.hx",
+  "version": "0.0.1",
+  "description": "Haxe externs for stats.js",
+  "releasenote": "intial release",
+  "url": "https://github.com/luizbills/stats.js.hx",
+  "license": "MIT",
+  "contributors": [
+    "luizbills"
+  ],
+  "tags": [
+    "js",
+    "stats",
+    "debug"
+  ]
+}
