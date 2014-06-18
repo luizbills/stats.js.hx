@@ -1,4 +1,4 @@
-package js.stats;
+package ;
 
 import js.html.Element;
 
