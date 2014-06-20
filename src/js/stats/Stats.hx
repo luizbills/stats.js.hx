@@ -1,10 +1,11 @@
-package ;
+package js.stats;
 
-import js.html.Element;
+import js.html.DivElement;
 
+@:native("Stats")
 extern class Stats {
   public var REVISION(default, null):Int;
-  public var domElement(default, null):Element;
+  public var domElement(default, null):DivElement;
 
   public function new();
 
