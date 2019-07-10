@@ -1,6 +1,6 @@
 {
   "name": "stats.js.hx",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Haxe extern for stats.js",
   "releasenote": "restored package",
   "url": "https://github.com/luizbills/stats.js.hx",
